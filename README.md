@@ -5,7 +5,8 @@
 - 🎮 Estou procurando colaborar e aprender
 - 📫 E-mail secundário: joycec.vieira@outlook.com
 
-![20220621_170007](https://user-images.githubusercontent.com/79770441/174890092-d5ccd9f6-cb61-443e-b264-c9805c10e867.gif)
+![20220621_170007 2](https://user-images.githubusercontent.com/79770441/174891545-2e43e79f-d0e4-4de6-bfd9-282db0d48e46.gif)
+
 
 ## Olá, Sou Joyce Cabral estudo programação e tecnologia.
 <div align="center">
