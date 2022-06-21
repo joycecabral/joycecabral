@@ -4,9 +4,8 @@
 - 🌱 Participando  da CS50- O curso de Harvard no Brasil
 - 🎮 Estou procurando colaborar e aprender
 - 📫 E-mail secundário: joycec.vieira@outlook.com
-
-![20220621_170007 2](https://user-images.githubusercontent.com/79770441/174891545-2e43e79f-d0e4-4de6-bfd9-282db0d48e46.gif)
-
+- 
+![download20220602173306 2](https://user-images.githubusercontent.com/79770441/174892994-01ceee0e-958e-4e6c-b46f-bc56a1818e1c.png)
 
 ## Olá, Sou Joyce Cabral estudo programação e tecnologia.
 <div align="center">
@@ -33,6 +32,3 @@
   <a href = "joycecabral241@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/joyce-cabral-abb014208/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
